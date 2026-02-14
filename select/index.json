@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "タバコ",
+  "base_artist": "FOMARE",
+  "createdAt": "2026-02-14T10:28:55.271981Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "タバコ - From THE FIRST TAKE",
+      "artist": "FOMARE",
+      "has_synced": true,
+      "path": "select/01_タバコ_-_From_THE_FIRST_TAKE_FOMARE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "タバコ",
+      "artist": "EGO-WRAPPIN'",
+      "has_synced": true,
+      "path": "select/02_タバコ_EGO-WRAPPIN'.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "タバコ・ロードにセクシーばあちゃん",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/03_タバコ・ロードにセクシーばあちゃん_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "タバコ・ロードにセクシーばあちゃん [2024 Remaster]",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/04_タバコ・ロードにセクシーばあちゃん_[2024_Remaster]_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "臭い責め拷問7(タバコ＆口臭責めで奴隷化)",
+      "artist": "甘味抜き茶屋",
+      "has_synced": true,
+      "path": "select/05_臭い責め拷問7(タバコ&口臭責めで奴隷化)_甘味抜き茶屋.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タバコ",
+      "artist": "FOMARE",
+      "has_synced": false,
+      "path": "select/pl_01_タバコ_FOMARE.txt"
+    }
+  ]
+}
